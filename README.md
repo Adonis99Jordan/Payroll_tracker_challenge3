@@ -1,4 +1,4 @@
-# **Payroll Tracker Challenge**
+# **Payroll Tracker**
 
 ## **Description**
 
